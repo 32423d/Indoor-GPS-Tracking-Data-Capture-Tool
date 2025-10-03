@@ -1,5 +1,5 @@
 # Indoor-GPS-Tracking-Data-Capture-Tool
-This is a Python-based desktop application for real-time tracking and data collection using the Marvelmind Indoor Positioning System.
+This is a Python-based desktop application for real-time tracking and data collection using the Marvelmind Indoor Positioning System (4 pylon beacons for tracking and 1 beacon for collecting position data).
 
 <img width="726" height="497" alt="image" src="https://github.com/user-attachments/assets/ec26b20d-5a9f-4e09-8ae6-179e3ac249a1" />
 
